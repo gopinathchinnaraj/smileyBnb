@@ -38,5 +38,3 @@ A complete booking platform with functionality similar to popular stay-rental ap
 | Hosting | Vercel / Render / Railway |
 | Maps | Google Maps API / Mapbox |
 | Payments | Stripe / PayPal |
-
-## 📁 Project Structure
